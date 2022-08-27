@@ -12,7 +12,7 @@
 
 | 포지션 | 이름 | Contact | Link |
 | :---- | :---- | :---- | :---- |
-| Designer | 장하영 | wkdgkdud5471@gmail.com | [Profile](http://hayoungjang.woobi.co.kr) |
+| Designer | 장하영 | wkdgkdud5471@gmail.com | [Portfolio](http://hayoungjang.woobi.co.kr) |
 | Frontend, VL | 두선아 | dusunax@gmail.com‣| [GitHub](https://github.com/dusunax) |
 | Frontend | 도원석 | wsdo970@gmail.com | [GitHub](https://github.com/wonseok-do) |
 | Frontend | 문창용 | cmun2@illinois.edu | [GitHub](https://github.com/cmun2) |
