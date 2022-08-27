@@ -12,9 +12,9 @@
 
 | 포지션 | 이름 | Contact | Link |
 | :---- | :---- | :---- | :---- |
-| Designer | 장하영 | wkdgkdud5471@gmail.com | http://hayoungjang.woobi.co.kr |
-| Frontend, VL | 두선아 | dusunax@gmail.com‣| https://github.com/dusunax |
-| Frontend | 도원석 | wsdo970@gmail.com | https://github.com/wonseok-do |
-| Frontend | 문창용 | cmun2@illinois.edu | https://github.com/cmun2 |
-| Backend, L | 이민석 | workstation19961002@gmail.com | https://github.com/unchaptered |
-| Backend | 윤승근 | axisotherwise@gmail.com | https://github.com/axisotherwise |
+| Designer | 장하영 | wkdgkdud5471@gmail.com | [Profile](http://hayoungjang.woobi.co.kr) |
+| Frontend, VL | 두선아 | dusunax@gmail.com‣| [GitHub](https://github.com/dusunax) |
+| Frontend | 도원석 | wsdo970@gmail.com | [GitHub](https://github.com/wonseok-do) |
+| Frontend | 문창용 | cmun2@illinois.edu | [GitHub](https://github.com/cmun2) |
+| Backend, L | 이민석 | workstation19961002@gmail.com | [GitHub](https://github.com/unchaptered) |
+| Backend | 윤승근 | axisotherwise@gmail.com | [GitHub](https://github.com/axisotherwise) |
