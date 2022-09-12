@@ -19,6 +19,14 @@
 | Backend, L | 이민석 | workstation19961002@gmail.com | [GitHub](https://github.com/unchaptered) |
 | Backend | 윤승근 | axisotherwise@gmail.com | [GitHub](https://github.com/axisotherwise) |
 
+## Docs
+
+- 그라운드 룰 - [Click](./rules/README.md)
+- 아이디어 회의 - [Click](./ideas/README.md)
+- 진행현황 회의 - [Click](./meetings/README.md)
+- 라이브러리 선택 기준 - [Click](./libs/README.md)
+- API 리스트 및 명세서 - [Click](./apis/README.md)
+
 ## Color
 
 ```
