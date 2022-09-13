@@ -25,6 +25,7 @@
 - 아이디어 회의 - [Click](https://github.com/cupicks/.github/tree/main/profile/ideas/README.md)
 - 진행현황 회의 - [Click](https://github.com/cupicks/.github/tree/main/profile/meetings/README.md)
 - 라이브러리 선택 기준 - [Click](https://github.com/cupicks/.github/tree/main/profile/libs/README.md)
+- 인프라 서비스 선택 기준 - [Click](https://github.com/cupicks/.github/tree/main/profile/infrastructure/README.md)
 - API 리스트 및 명세서 - [Click](https://github.com/cupicks/.github/tree/main/profile/apis/README.md)
 
 ## Color
