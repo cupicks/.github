@@ -7,7 +7,7 @@
 - FE Repo : [Cupicks/cupicks-fe](https://github.com/cupicks/cupicks-fe)
 - BE Repo : [Cupicks/cupicks-be](https://github.com/cupicks/cupicks-be)
 
-## Contributors
+## 팀원
 
 
 | 포지션 | 이름 | Contact | Link |
@@ -19,16 +19,20 @@
 | Backend, L | 이민석 | workstation19961002@gmail.com | [GitHub](https://github.com/unchaptered) |
 | Backend | 윤승근 | axisotherwise@gmail.com | [GitHub](https://github.com/axisotherwise) |
 
-## Docs
+## 문서 리스트
 
 - 그라운드 룰 - [Click](https://github.com/cupicks/.github/tree/main/profile/rules/README.md)
 - 아이디어 회의 - [Click](https://github.com/cupicks/.github/tree/main/profile/ideas/README.md)
 - 진행현황 회의 - [Click](https://github.com/cupicks/.github/tree/main/profile/meetings/README.md)
 - 라이브러리 선택 기준 - [Click](https://github.com/cupicks/.github/tree/main/profile/libs/README.md)
+    - FE, ""
+    - BE, ""
 - 인프라 서비스 선택 기준 - [Click](https://github.com/cupicks/.github/tree/main/profile/infrastructure/README.md)
+    - FE, ""
+    - BE, ""
 - API 리스트 및 명세서 - [Click](https://github.com/cupicks/.github/tree/main/profile/apis/README.md)
 
-## Color
+## 시그니처 컬러 리스트
 
 ```
 const colorLists = [
