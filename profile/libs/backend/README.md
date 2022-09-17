@@ -2,6 +2,12 @@
 
 ## 백엔드 라이브러리
 
+1. 타입스크립트 - [Click](./1.typescript.md)
+2. MySQL 선택 - [Click](./2.database.md)
+3. Raw Query 선택 - [Click](./3.raw-query-vs-orm.md)
+4. AWS Lambda 이미지 리사이징 - [Click](4.image-resizing-service.md)
+5. AWS SWS 메일링 시스템 - [Click](5.mailing-service.md)
+
 ```json
 "dependencies": {
     "@aws-sdk/client-s3": "^3.161.0",
