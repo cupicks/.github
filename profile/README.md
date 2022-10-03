@@ -51,30 +51,27 @@
 
 Team
 
-<img src="https://img.shields.io/badge/Husky-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Prettier-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Lint_staged-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Husky-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Lint_staged-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub_Action-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/></a>
 
 Fe, Dependencies
 
-<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React_Hook_Form-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React_Intersection_Observer-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React_Jwt-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React_Slick-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Styled_Components-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Slick_Carousel-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Axios-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React_Intersection_Observer-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React_Jwt-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React_Slick-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/></a>
 
 Fe, DevDependencies
 
-<img src="https://img.shields.io/badge/Vite-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google_Analytics-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Light_House-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=Lighthouse&logoColor=white"/></a>
 
 Dependencies
 
