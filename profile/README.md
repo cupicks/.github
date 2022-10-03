@@ -49,6 +49,55 @@
 
 ### 라이브러리
 
+Team
+
+<img src="https://img.shields.io/badge/Husky-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Prettier-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Lint_staged-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+Fe, Dependencies
+
+<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React_Hook_Form-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React_Intersection_Observer-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React_Jwt-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React_Slick-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Styled_Components-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Slick_Carousel-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Axios-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+Fe, DevDependencies
+
+<img src="https://img.shields.io/badge/Vite-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google_Analytics-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Light_House-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+Be, Dependencies
+
+<img src="https://img.shields.io/badge/Express-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Cors-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bcrypt-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Dayjs-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Joi-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jsonwebtoken-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Multer-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Uuid-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Aws_sdk-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+Be, DevDepenencies
+
+<img src="https://img.shields.io/badge/Esbuild_Jest-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jest-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/morgan-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node_Mock_Http-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/@faker_js-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+
+
 
 
 ### 시그니처 컬러 리스트
