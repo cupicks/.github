@@ -54,6 +54,7 @@ Team
 <img src="https://img.shields.io/badge/Husky-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Prettier-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Lint_staged-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub_Action-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/></a>
 
 Fe, Dependencies
 
@@ -75,29 +76,36 @@ Fe, DevDependencies
 <img src="https://img.shields.io/badge/Google_Analytics-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Light_House-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-Be, Dependencies
+Dependencies
 
-<img src="https://img.shields.io/badge/Express-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Cors-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Bcrypt-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Dayjs-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Joi-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jsonwebtoken-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Multer-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Uuid-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Aws_sdk-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jsonwebtoken-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Cors-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bcrypt-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Dayjs-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Joi-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Multer-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/UUID-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS_SDK-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Sharp-99CC00?style=flat-square&logo=sharp&logoColor=white"/></a>
 
 Be, DevDepenencies
 
-<img src="https://img.shields.io/badge/Esbuild_Jest-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jest-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/morgan-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node_Mock_Http-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/@faker_js-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+DevDependencies
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jest-CB3837?style=flat-square&logo=Jest&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/morgan-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node_Mock_Http-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/@faker_js-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Esbuild_Jest-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
 
+Be, Infra
 
-
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NGINX_Amplify-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Fail2Ban-000000?style=flat-square"/></a>
 
 
 ### 시그니처 컬러 리스트
