@@ -10,6 +10,7 @@
 
 ### 관련 링크
 
+- **Service** / https://cupick.co
 - **Video** / [Cupick : 내 손안의 작은 카페 [리허설]](https://youtu.be/811C-JN1Uq8)
 - Figma / [디자인 시안](https://www.figma.com/file/H0DTlyM8k8HP1fqgrmKlwR/Cupick?node-id=868%3A1196)
 - Notion / [브로슈어](https://www.notion.so/24545255734e48d487e3b55da356dc4e)
