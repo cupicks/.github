@@ -91,7 +91,6 @@ Dependencies
 
 Be, DevDepenencies
 
-DevDependencies
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jest-CB3837?style=flat-square&logo=Jest&logoColor=white"/></a>
