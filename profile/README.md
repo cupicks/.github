@@ -40,10 +40,10 @@
 
 ### API 정보
 
-- [API 리스트 _ 0928](https://www.notion.so/API-_-0928-158b92d9cf6e4601b4c0b04c22513cbb)
-- [API 명세서 _ 0928](https://www.notion.so/API-_-0928-ce1db36c2fa7491f8fec700be56cc45f)
-- [API 리스트 _ 1106](https://www.notion.so/API-_-1106-5206e8bbb3bb474987354da04217271f)
-- [API 명세서 _ 1106](https://www.notion.so/API-_-1106-ed3337a7bb874779a99bab61177790fc)
+- [(항해 중) API 리스트 _ 0928](https://www.notion.so/API-_-0928-158b92d9cf6e4601b4c0b04c22513cbb)
+- [(항해 중) API 명세서 _ 0928](https://www.notion.so/API-_-0928-ce1db36c2fa7491f8fec700be56cc45f)
+- [(항해 이후) API 리스트 _ 1106](https://www.notion.so/API-_-1106-5206e8bbb3bb474987354da04217271f)
+- [(항해 이후) API 명세서 _ 1106](https://www.notion.so/API-_-1106-ed3337a7bb874779a99bab61177790fc)
 
 ---
 
