@@ -27,7 +27,7 @@
 | Frontend, VL | 두선아 | 010-8003-1903 | dusunax@gmail.com | [GitHub](https://github.com/dusunax) |
 | Frontend | 문창용 | 010-2596-3918 | cmun2@illinois.edu | [GitHub](https://github.com/cmun2) |
 | Frontend | 도원석 | 010-2513-1114 | wsdo970@gmail.com | [GitHub](https://github.com/wonseok-do) |
-| Backend, L | 이민석 | 010-9781-8756 | workstation19961002@gmail.com | [GitHub](https://github.com/unchaptered) |
+| Backend, L | 이민석 | - | - | [GitHub](https://github.com/unchaptered) |
 | Backend | 윤승근 | 010-4991-7593 | axisotherwise@gmail.com | [GitHub](https://github.com/axisotherwise) |
 
 ### 그라운드 룰
